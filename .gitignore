@@ -46,6 +46,9 @@ venv/
 *.temp
 *.bak
 
+# Configuration with sensitive data
+.gemini/
+
 # Coverage
 coverage/
 .nyc_output/
